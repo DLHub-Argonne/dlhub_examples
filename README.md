@@ -1,1 +1,6 @@
-# dlhub_examples
+# DLHub Examples
+
+## Installation
+```bash
+pip install dlhub_client
+```

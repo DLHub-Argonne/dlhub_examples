@@ -8,4 +8,5 @@ tqdm
 requests
 globus_sdk
 matminer
+keras
 dlhub_sdk

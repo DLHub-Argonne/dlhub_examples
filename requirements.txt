@@ -8,5 +8,6 @@ tqdm
 requests
 globus_sdk
 matminer
+tensorflow
 keras
 dlhub_sdk

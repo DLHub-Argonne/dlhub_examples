@@ -1,3 +1,6 @@
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/DLHub-Argonne/dlhub_examples/master
+
 # DLHub Examples
 
 Examples showing how to use the [Data and Learning Hub for Science (DLHub)](https://www.dlhub.org)

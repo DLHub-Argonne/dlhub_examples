@@ -1,0 +1,17 @@
+BCC
+Beam Off Image
+Circular Beamstop
+Diffuse high-q
+Diffuse low-q
+FCC
+Halo
+High background
+Higher orders
+Linear beamstop
+Many rings
+Polycrystalline
+Ring
+Strong scattering
+Structure factor
+Weak scattering
+Wedge beamstop

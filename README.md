@@ -5,17 +5,17 @@
 
 Examples showing how to use the [Data and Learning Hub for Science (DLHub)](https://www.dlhub.org)
 
-## [1 - Introduction](./1-Introduction)
-These notebooks show the base functionality of DLHub: e.g., how to create a DLHub client, how to authenticate, how to invoke a servable, etc.)
+## [Publish](./publish)
+These notebooks show how to publish models with DLHub
 
-## [2 - General](./2-General)
-These notebooks include implementations of various model architectures against common benchmark datasets (e.g., CIFAR10, MNIST)
+## [Discover](./discover)
+These notebooks show how to discover models in DLHub
 
-## [3 - Materials Science](./3-Materials%20Science)
-These notebooks show DLHub models applied to problems in materials science
+## [Run](./run)
+These notebooks show how to run models in DLHub
 
 # Contributions
-To contribute examples, depsosit your model in DLHub ([See how](https://github.com/DLHub-Argonne/dlhub_sdk)) and issue a pull request to this repository with the corresponding example notebook
+To contribute examples, deposit your model in DLHub ([See how](./publish)) and issue a pull request to this repository with the corresponding example notebook
 
 ## Installation
 ```bash

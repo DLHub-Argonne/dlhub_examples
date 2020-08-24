@@ -16,7 +16,7 @@ These notebooks show how to run models in DLHub
 
 1. [Introduction](./run/1-Introduction)
 2. [General](./run/2-General)
-3. [Materials Science](./run/3-Materials Science)
+3. [Materials Science](./run/3-Materials&#32;Science)
 4. [Cancer research](./run/4-CANDLE/)
 5. [Passing files](./run/5-Files/)
 
